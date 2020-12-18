@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "nod.js",
+  "scripts": {
+    "test": "check",
+    "start": "node app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "no repo"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "sheikh hunain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
